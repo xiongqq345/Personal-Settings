@@ -1,0 +1,14 @@
+FontHeight=18
+Font=Consolas
+FontSmoothing=full
+Locale=zh_CN
+Charset=UTF-8
+BackgroundColour=46,52,54
+ThemeFile=flat-ui
+FontWeight=400
+FontIsBold=no
+Language=zh_CN
+Transparency=low
+OpaqueWhenFocused=no
+BoldAsFont=no
+BoldAsColour=yes
