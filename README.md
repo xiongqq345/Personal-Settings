@@ -1,5 +1,5 @@
 Save some personal settings here
 ===================
-[Git Bash](../gitbash/)
+[Git Bash](gitbash/)
 
 [Goland]()
