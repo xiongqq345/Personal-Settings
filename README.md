@@ -1,4 +1,4 @@
-Save some personal settings here
+Some personal settings here
 ===================
 [Git Bash](gitbash/)
 
